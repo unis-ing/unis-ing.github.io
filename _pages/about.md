@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-description: Knows nothing about building websites
+description: 
 
 profile:
   align: right
-  image: blind_contour.png
+  image: blind_contour2.png
   address:
 
 news: false  # includes a list of news items
